@@ -1,3 +1,3 @@
 # words_dictionary
 
-downloaded from internet
+all downloaded from internet
